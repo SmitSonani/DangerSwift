@@ -103,10 +103,10 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 77B6B61F1F037EDB006444D8 /* Build configuration list for PBXNativeTarget "DangerSwift" */;
 			buildPhases = (
+				777E6F5A1F03919D00BA9282 /* SwiftLint */,
 				77B6B5FE1F037EDB006444D8 /* Sources */,
 				77B6B5FF1F037EDB006444D8 /* Frameworks */,
 				77B6B6001F037EDB006444D8 /* Resources */,
-				777E6F5A1F03919D00BA9282 /* SwiftLint */,
 			);
 			buildRules = (
 			);
